@@ -1,0 +1,6 @@
+@Adspire.Backend_HostAddress = http://localhost:5025
+
+GET {{Adspire.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
